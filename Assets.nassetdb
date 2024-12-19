@@ -1,0 +1,1426 @@
+{
+    "0193b245-a622-7e98-ee37-be9a27116e85": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "0193b245-a639-70ba-2d1d-c4c95aca396a",
+            "0193b245-a646-7a92-e68b-99466d89d8a5",
+            "0193b245-a646-7e85-a28b-c509a7b2080a",
+            "0193b245-a646-75b0-0d61-96289d2a50b8",
+            "0193b245-a647-73b5-136a-e38836a02127",
+            "0193b245-a647-7dbf-ff6e-44c2ebca3112",
+            "0193b245-a647-7c96-5fb1-ef4b2c41a7d5",
+            "0193b245-a647-77a9-d405-d9212e1f2e34",
+            "0193b245-a647-7a93-7feb-49a907f91e97",
+            "0193b245-a647-7c84-3375-ac7433baae84",
+            "0193b245-a647-7a97-6729-ccfbed1c0fa0",
+            "0193b245-a647-70a0-b50d-50f7a97bd356",
+            "0193b245-a647-71ae-a84c-3dbc5af01a66",
+            "0193b245-a647-78b0-4399-ae1b34c6f496",
+            "0193b245-a647-7895-8589-fafdb7ad6390",
+            "0193b245-a647-79a6-9c11-103f24b99b6a",
+            "0193b245-a647-74ab-5263-43b8652ed774",
+            "0193b245-a648-76b5-5b7c-fdee149988a6",
+            "0193b245-a648-7ba3-7884-88fe2cf4ed4f",
+            "0193b245-a648-7ca2-80d6-4b512dcde08c",
+            "0193b245-a648-7da5-f209-d567a90f935a",
+            "0193b245-a648-7b81-5325-ad6407cbcbbb",
+            "0193b245-a648-7fb1-e0c6-8ec51abb2e69",
+            "0193b245-a648-70b5-9cef-5ecf57e0b4f8",
+            "0193b245-a648-7386-ca57-9ed411ec571d",
+            "0193b245-a648-798e-1f0c-62916b227761",
+            "0193b245-a648-76bd-5fc0-cb13e285e208",
+            "0193b245-a648-7c99-7c5c-ae3ba3cb5f8c",
+            "0193b245-a648-7482-cbf8-8474afebdb0b",
+            "0193b245-a648-79b2-cf3d-77190972200f",
+            "0193b245-a648-71b0-5e6d-ef2350e7ecc3",
+            "0193b245-a648-7482-ef97-9bf29e9921bb",
+            "0193b245-a649-76b9-a967-a582df3b8bf2",
+            "0193b245-a649-7b99-7aa6-587e671bedef",
+            "0193b245-a649-729f-08f0-4b8ecfd2614d",
+            "0193b245-a649-7196-76c2-b8d10fe66971",
+            "0193b245-a649-7e98-02de-1881154ff738",
+            "0193b245-a649-7c89-6311-c65f35036472",
+            "0193b245-a649-78a3-190a-5e45cba005ae",
+            "0193b245-a649-7783-93a5-a6a36fc10ec3",
+            "0193b245-a649-79a6-c6b0-11f686c217a5",
+            "0193b245-a649-70b2-4b9c-52f14da0a23a",
+            "0193b245-a649-76a2-dfd6-f76a5804998f",
+            "0193b245-a649-72a1-bca4-832cee6ab127",
+            "0193b245-a649-749c-92a2-1afc7ceb5bed",
+            "0193b245-a649-79b6-f62e-ffd8a586e719",
+            "0193b245-a64a-77ae-a686-a06ed7544125",
+            "0193b245-a64a-7398-16fa-c069d4b1ea0c",
+            "0193b245-a64a-7ea4-06b9-b7304bf2f96f",
+            "0193b245-a64a-7494-82c9-a64fd94faa45",
+            "0193b245-a64a-73a2-b1f8-ebd8c566e831",
+            "0193b245-a64a-779d-0e55-e9273d8f6c38",
+            "0193b245-a64a-72af-0b96-b3b82f717c6d"
+        ]
+    },
+    "0193b245-a639-70ba-2d1d-c4c95aca396a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Armchair.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a639-7494-5b13-5a737b8acf96",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a639-7494-5b13-5a737b8acf96": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Armchair.mesh.nasset/Armchair Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a639-7da3-f248-e1401574431b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/Furniture Bits.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "0193b245-a646-74b6-cf99-3f6f70dfddfd"
+        ]
+    },
+    "0193b245-a646-7295-33b5-2aa68300e2c1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Bed Double A.mesh.nasset/Bed Double A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a646-74b6-cf99-3f6f70dfddfd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/Textures/T_Furniture_Bits_D.tex.nasset"
+    },
+    "0193b245-a646-75b0-0d61-96289d2a50b8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Bed Double B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a646-789e-9ca1-03582f3b113c",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a646-789e-9ca1-03582f3b113c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Bed Double B.mesh.nasset/Bed Double B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a646-7a92-e68b-99466d89d8a5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Armchair Pillows.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a646-7dab-41c1-9be878d23a7c",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a646-7dab-41c1-9be878d23a7c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Armchair Pillows.mesh.nasset/Armchair Pillows Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a646-7e85-a28b-c509a7b2080a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Bed Double A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a646-7295-33b5-2aa68300e2c1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-70a0-b50d-50f7a97bd356": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cabinet Small Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-72a7-02f2-816239859868",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-70b9-d274-f56e62d6dab6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cactus Small A.mesh.nasset/Cactus Small A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7186-275e-72d3159b1954": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cactus Small B.mesh.nasset/Cactus Small B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-71ae-42d2-d84258b2b549": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Bed Single A.mesh.nasset/Bed Single A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-71ae-a84c-3dbc5af01a66": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cactus Medium A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-7682-0f07-070c86f70541",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-72a7-02f2-816239859868": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cabinet Small Decorated.mesh.nasset/Cabinet Small Decorated Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7394-5c4b-d18142193640": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cabinet Medium.mesh.nasset/Cabinet Medium Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-73b5-136a-e38836a02127": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Bed Single A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-71ae-42d2-d84258b2b549",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-74ab-5263-43b8652ed774": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-7ab7-bda2-c004bb0bfc0d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7588-dacc-91085b5ef4ac": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Book Set.mesh.nasset/Book Set Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7594-d6e1-6bec1a755382": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cabinet Medium Decorated.mesh.nasset/Cabinet Medium Decorated Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7682-0f07-070c86f70541": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cactus Medium A.mesh.nasset/Cactus Medium A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7686-7b5b-822d57bd71d8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Book Single.mesh.nasset/Book Single Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-77a9-d405-d9212e1f2e34": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Book Single.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-7686-7b5b-822d57bd71d8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-788d-c93e-8c71e957b5a3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Bed Single B.mesh.nasset/Bed Single B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7895-8589-fafdb7ad6390": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cactus Small A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-70b9-d274-f56e62d6dab6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7898-65da-b0c408e76ba0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cactus Medium B.mesh.nasset/Cactus Medium B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-78b0-4399-ae1b34c6f496": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cactus Medium B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-7898-65da-b0c408e76ba0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-79a6-9c11-103f24b99b6a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cactus Small B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-7186-275e-72d3159b1954",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7a93-7feb-49a907f91e97": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cabinet Medium.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-7394-5c4b-d18142193640",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7a97-6729-ccfbed1c0fa0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cabinet Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-7e88-999e-605394f298dc",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7ab7-bda2-c004bb0bfc0d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair A.mesh.nasset/Chair A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7c84-3375-ac7433baae84": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cabinet Medium Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-7594-d6e1-6bec1a755382",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7c96-5fb1-ef4b2c41a7d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Book Set.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-7588-dacc-91085b5ef4ac",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7dbf-ff6e-44c2ebca3112": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Bed Single B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a647-788d-c93e-8c71e957b5a3",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a647-7e88-999e-605394f298dc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Cabinet Small.mesh.nasset/Cabinet Small Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7091-19d9-378746c5a34e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Lamp Standing.mesh.nasset/Lamp Standing Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7099-2e00-4eba69ada08b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair Stool.mesh.nasset/Chair Stool Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-70b5-9cef-5ecf57e0b4f8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Couch.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-7a89-c741-8a16eb3ea353",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-71b0-5e6d-ef2350e7ecc3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Small A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-74b0-ff06-20f664fd5624",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7284-7c9c-09b49f6c3dcb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair B Wood.mesh.nasset/Chair B Wood Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-72ab-11fe-a4eff355edde": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Couch Pillows.mesh.nasset/Couch Pillows Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-72b4-99e4-2183fb9f0c30": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair A Wood.mesh.nasset/Chair A Wood Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7386-ca57-9ed411ec571d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Couch Pillows.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-72ab-11fe-a4eff355edde",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-739f-c203-b040682d36b8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Large B.mesh.nasset/Picture Frame Large B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-73b0-a450-c4c5e9c86d06": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair B.mesh.nasset/Chair B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7482-cbf8-8474afebdb0b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Large B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-739f-c203-b040682d36b8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7482-ef97-9bf29e9921bb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Small B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-7e88-2624-698719534695",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-74a8-cfda-571b994aafcd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Medium.mesh.nasset/Picture Frame Medium Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-74b0-ff06-20f664fd5624": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Small A.mesh.nasset/Picture Frame Small A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-76b5-5b7c-fdee149988a6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair A Wood.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-72b4-99e4-2183fb9f0c30",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-76bd-5fc0-cb13e285e208": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Lamp Table.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-7e8a-f6d2-db9fec2e8b2d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7790-081b-5619ca967ec2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Large A.mesh.nasset/Picture Frame Large A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7895-328b-bd2fa9d24e23": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair Stool Wood.mesh.nasset/Chair Stool Wood Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-798e-1f0c-62916b227761": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Lamp Standing.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-7091-19d9-378746c5a34e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-79b2-cf3d-77190972200f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Medium.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-74a8-cfda-571b994aafcd",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7a89-c741-8a16eb3ea353": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Couch.mesh.nasset/Couch Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7b81-5325-ad6407cbcbbb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair Stool.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-7099-2e00-4eba69ada08b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7ba3-7884-88fe2cf4ed4f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-73b0-a450-c4c5e9c86d06",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7c99-7c5c-ae3ba3cb5f8c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Large A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-7790-081b-5619ca967ec2",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7ca2-80d6-4b512dcde08c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair B Wood.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-7284-7c9c-09b49f6c3dcb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7da5-f209-d567a90f935a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-7e80-e06d-1169ac83ab6a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7e80-e06d-1169ac83ab6a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair C.mesh.nasset/Chair C Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7e8a-f6d2-db9fec2e8b2d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Lamp Table.mesh.nasset/Lamp Table Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a648-7fb1-e0c6-8ec51abb2e69": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Chair Stool Wood.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a648-7895-328b-bd2fa9d24e23",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-70a7-ea6c-56232b309645": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Rectangle Stripes A.mesh.nasset/Rug Rectangle Stripes A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-70b2-4b9c-52f14da0a23a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Rectangle Stripes A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-70a7-ea6c-56232b309645",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-70b6-c2de-38dc884befa6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Rectangle B.mesh.nasset/Rug Rectangle B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7196-76c2-b8d10fe66971": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Pillow A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-7c94-cea3-1edff161b41b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-71ad-f185-b2b2fa78009a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf A Small.mesh.nasset/Shelf A Small Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-729f-08f0-4b8ecfd2614d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Standing B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-7782-2843-3b8196e071a8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-729f-d8e5-92b30cb83ef4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Standing A.mesh.nasset/Picture Frame Standing A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-72a1-bca4-832cee6ab127": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf A Big.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-7c92-662a-cf0308564b76",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-749c-92a2-1afc7ceb5bed": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf A Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-71ad-f185-b2b2fa78009a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-74bc-71cb-12770f88f786": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Rectangle A.mesh.nasset/Rug Rectangle A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-768b-da26-89416fa7fbe4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Small C.mesh.nasset/Picture Frame Small C Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-76a2-dfd6-f76a5804998f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Rectangle Stripes B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-7789-88aa-475937d2fe8b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-76b9-a967-a582df3b8bf2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Small C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-768b-da26-89416fa7fbe4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7782-2843-3b8196e071a8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Standing B.mesh.nasset/Picture Frame Standing B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7783-93a5-a6a36fc10ec3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Rectangle A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-74bc-71cb-12770f88f786",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7789-88aa-475937d2fe8b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Rectangle Stripes B.mesh.nasset/Rug Rectangle Stripes B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-77b2-2fc2-2604f4b41713": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Oval B.mesh.nasset/Rug Oval B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-78a3-190a-5e45cba005ae": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Oval B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-77b2-2fc2-2604f4b41713",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-78aa-ed42-0143e9ec9011": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Oval A.mesh.nasset/Rug Oval A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-79a6-c6b0-11f686c217a5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Rectangle B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-70b6-c2de-38dc884befa6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-79b6-f62e-ffd8a586e719": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf B Large.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-7aa1-1337-5c5959eb4de7",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7aa1-1337-5c5959eb4de7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf B Large.mesh.nasset/Shelf B Large Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7b99-7aa6-587e671bedef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Standing A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-729f-d8e5-92b30cb83ef4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7b9e-8828-15fa51b83e9d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Pillow B.mesh.nasset/Pillow B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7c89-6311-c65f35036472": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Rug Oval A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-78aa-ed42-0143e9ec9011",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7c92-662a-cf0308564b76": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf A Big.mesh.nasset/Shelf A Big Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7c94-cea3-1edff161b41b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Pillow A.mesh.nasset/Pillow A Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7e88-2624-698719534695": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Picture Frame Small B.mesh.nasset/Picture Frame Small B Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a649-7e98-02de-1881154ff738": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Pillow B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a649-7b9e-8828-15fa51b83e9d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-7092-d9c4-115c76458957": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf B Small.mesh.nasset/Shelf B Small Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-72af-0b96-b3b82f717c6d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Table Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a64a-7dae-e1b7-58fba098dea4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-7398-16fa-c069d4b1ea0c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf B Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a64a-7092-d9c4-115c76458957",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-73a2-b1f8-ebd8c566e831": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/table medium.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a64a-7bbd-af74-0997a7a1f5d9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-7494-82c9-a64fd94faa45": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Table Low.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a64a-7fbc-4c04-99fd7eeb603f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-74ad-752e-09a430e1e4d5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Table Medium Long.mesh.nasset/Table Medium Long Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-779d-0e55-e9273d8f6c38": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Table Medium Long.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a64a-74ad-752e-09a430e1e4d5",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-77ae-a686-a06ed7544125": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf B Large Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a64a-7aad-f603-83b0a66bf86b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-7aad-f603-83b0a66bf86b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf B Large Decorated.mesh.nasset/Shelf B Large Decorated Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-7bbd-af74-0997a7a1f5d9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/table medium.mesh.nasset/table medium Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-7cb8-ba4b-f67f266aeace": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf B Small Decorated.mesh.nasset/Shelf B Small Decorated Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-7dae-e1b7-58fba098dea4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Table Small.mesh.nasset/Table Small Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-7ea4-06b9-b7304bf2f96f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Shelf B Small Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "0193b245-a64a-7cb8-ba4b-f67f266aeace",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b245-a64a-7fbc-4c04-99fd7eeb603f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Furniture_Bits.scene.nasset/Table Low.mesh.nasset/Table Low Furniture Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b245-a639-7da3-f248-e1401574431b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193dd93-e954-7b80-fccb-abd6b959cba5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Home-a-rama_Thumb.tex.nasset"
+    },
+    "0193dd93-ea87-7f8f-c2cc-2d06c416fbad": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "26bc21a6-fdf0-4d8f-96d6-b2a94a3c3cf9": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Home-a-rama",
+        "thumbnail": "0193dd93-e954-7b80-fccb-abd6b959cba5",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
+    },
+    "6dd7dc6e-e545-4080-8a1e-0b2d2604874d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Home-a-rama.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":2048.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[5.4105,-3.0759,3.5692],\"rotation\":[-30.0674,-0.0,53.0321]}"
+        }
+    },
+    "guid": "0193dd93-ea87-7f8f-c2cc-2d06c416fbad"
+}
